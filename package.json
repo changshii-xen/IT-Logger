@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "json-server": "json-server --watch db.json --port 5000",
+    "json-server": "json-server --watch https://my-json-server.typicode.com/changshii-xen/IT-Logger --port 5000",
     "dev": "concurrently \"npm start\" \"npm run json-server\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
